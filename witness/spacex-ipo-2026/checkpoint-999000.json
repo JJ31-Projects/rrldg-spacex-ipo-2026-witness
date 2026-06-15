@@ -1,0 +1,8 @@
+{
+  "chain_head_hash": "sha256:db3d62bf414ad323ad450c335c47f40f10141a08fc1f478cbacfd8151e930f05",
+  "checkpoint_record_hash": "sha256:1042cd982a52fdb8c3084a09efc25e7a834c31c891f48ee8644688734bdc1c7b",
+  "checkpoint_seq": 999000,
+  "created_at_utc": "2026-06-15T04:48:00.322851Z",
+  "event_id": "spacex-ipo-2026",
+  "rrldg_schema": "witness_v1"
+}
